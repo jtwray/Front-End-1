@@ -1,0 +1,78 @@
+login registration
+
+dashboard
+
+
+venue owner dashboard
+upcoming rentals
+
+ my venues
+	add venue
+	update venue
+	archive venue
+		-delete venue
+
+	SingleVenue
+		availability
+		
+		description
+		-location
+		-rate/price
+		-image
+		-description
+		-utilites/amenities available
+		
+		reviews
+
+renter dashboard
+ 	my trips/reservations
+		singleReservation
+			dates
+			price
+			contact
+	search venues
+		create reservation
+		update reservation
+		cancel reservation
+		add favorite reservation
+		rate venue
+
+
+________________________________________________________________________________________________________
+________________________________________________________________________________________________________
+________________________________________________________________________________________________________
+
+
+
+views
+
+marketing page
+
+
+
+login/register
+
+
+dashboard
+	greeting
+	myVenues/myReservations
+		-search
+		-new
+		-see mine	
+	upcoming Reservations
+	
+	mine
+		-favorited
+		-upcoming
+		
+		favorited
+		upcoming
+			-single view
+				-crud
+	new
+		-single view
+		-crud
+	search
+		--singleview
+
+
