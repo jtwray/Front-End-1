@@ -4,37 +4,34 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/5a502ca580cc32e02669/test_coverage)](https://codeclimate.com/github/Lambda-School-Labs/artificial-artist-fe/test_coverage)
 
 
-#  KIDSFLY2
+# RVENTURE
 
- You can find the deployed project at [kidsfly.netlify.app](https://www.kidsfly.netlify.app).
+ You can find the deployed project at [rventure.netlify.app](https://www.rventure.netlify.app).
 
 
 
 ## Project Overview
 
-1️⃣ [Trello Board](https://trello.com/b/QHXgGVlP/bw-pt-kidsfly)
-
-2️⃣ [Product Canvas](https://www.notion.so/Artificial-Artist-1934140bf39c4f2ba1b8910de0ee0d41)
-
-
-KidsFly is an airline vendor offering consierge services for the modern family. Alerted by your mobile app's 5minutes our button; The KidsFly crewmember will greet you at the entrance wish an itinerary predetermined snacks for you children, take control of your luggage, checkin and boarding passes, allowing you expedited entrance through security and through the onboarding procedure with your main concern being you kids. Kids Fly Connection staff takes care of the rest.
-
+5th wheel Airbnb is a company that connects land owners and 5th wheel / RV owners. 
+RV parks are often cramped and in many areas are booked months in advance. 📅 
+🏕 Collectively, landowners hold vast swaths of unused land that could be earning them revenue. 
+By using 5th wheel Airbnb, 
+  - 💑  RV owners get access to use these previously unknown/unavailable sites, 🏞🚌
+  - 💰 and Landowners get to cash-in on otherwise dormant or underutilized land/>
+  
 ## Key Features
-KidsFly offers a mobile app for end users, and Three Dashboard views accessible by authenticated and authorized users. 
-#### The admin board 
- - allows control and birds eye view of all incoming patrons,
- - the KidsConnection staff members on premises for today,
- - pairings of KidsConnection staff members and patrons 
- - access to incoming HR applications for new KidsConnection team members.
-#### The Staff Dashboard
+rVenture a mobile app for end users, and Two Dashboard views accessible by authenticated and authorized users. 
+#### The Landowner Dashboard 
+ - allows control and birds eye view of all incoming patrons, venues, status of the venue
+ 
+
+ - a place to upsell your Venue with images, user stories, amenities, availability calendar, public contact details
+ - a discrete private communication api without giving out your personal cell still communicate in real time through the app with clients
+ - access to incoming HR applications for new reservations
+#### The RVowner Dashboard
  - features a queue of incoming patrons
  - your current and next assignment details viewable
-#### The Patron Dashboard
- - 5 minutes out button
- - displays Home airport
- - passed and upcoming flights
- - menus for declaring luggage
- - making pre and inflight arrangements for meals snacks and any other specialty services requests
+
  
 
 ## Tech Stack
